@@ -1,0 +1,1 @@
+Tu umieszczamy kod od BD MySQL.

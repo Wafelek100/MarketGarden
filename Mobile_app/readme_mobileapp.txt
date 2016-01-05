@@ -1,0 +1,1 @@
+Tu umieszczamy kod aplikacji na urz¹dzenia mobilne.

@@ -1,0 +1,1 @@
+Tu umieszczamy pliki aplikacji WEBowej(php, js, css bla bla...)
